@@ -1,0 +1,5 @@
+0479582f-cbde-49bf-9b87-0c47a8ab51e8	23:12:2021	21:16:42	Error: Request Not Allowed By CORS
+85326b26-794f-4b64-9b1e-51cec39d6388	23:12:2021	21:54:11	Error: ENOENT: no such file or directory, stat 'D:\masters\node-js\dave-node\express\views\subdir\test.html'
+3d067671-b911-42d3-8d45-c04e3d838c14	23:12:2021	22:05:04	Error: ENOENT: no such file or directory, stat 'D:\masters\node-js\dave-node\express\routes\views\index.html'
+a86d43e3-66d1-47c7-aa0a-27d3042275ec	28:12:2021	11:17:14	ReferenceError: accessToken is not defined
+201a0afa-241c-43a3-b502-77a443171df5	28:12:2021	11:17:55	ReferenceError: accessToken is not defined
